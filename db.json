@@ -11,18 +11,6 @@
       "day": "2022-02-28",
       "reminder": true,
       "id": 5
-    },
-    {
-      "text": "Ahmad",
-      "day": "2022-02-14",
-      "reminder": true,
-      "id": 6
-    },
-    {
-      "text": "Ahmad",
-      "day": "2022-08-07",
-      "reminder": true,
-      "id": 7
     }
   ]
 }
